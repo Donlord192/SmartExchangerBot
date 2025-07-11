@@ -1,6 +1,6 @@
 module.exports = {
-  token: '7967520625:AAEGlib_WG86qUPC0fWyVcyKrRTydOaP8rs',
-  adminId: 8172633389, // твой Telegram ID для админ-панели
+  token: '11111111',
+  adminId: 123456789, // твой Telegram ID для админ-панели
   rates: {
     EUR_RUB: 90,       // 1 EUR = 90 RUB
     RUB_EUR: 1/90,
